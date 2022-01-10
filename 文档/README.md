@@ -8,4 +8,6 @@
 
 二。https://nftschool.dev/  学习编程NFT
 
+三。不断练习等待何时机会
+
 [学习目标](guide)
