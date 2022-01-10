@@ -6,4 +6,6 @@
 
 1.运用Solidity
 
+二。https://nftschool.dev/  学习编程NFT
+
 [学习目标](guide)
